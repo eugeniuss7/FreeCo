@@ -1,10 +1,10 @@
 # **☕ FreeCo: Brew Connections, Not Just Conversations**
-FreeCo is a social discovery platform designed to move digital interactions into the real world. By leveraging the universal "let's grab a coffee" gesture, CoFree matches users based on shared interests and specific topics they are passionate about.
+FreeCo is a social discovery platform designed to move digital interactions into the real world. By leveraging the universal "let's grab a coffee" gesture, FreeCo matches users based on shared interests and specific topics they are passionate about.
 
 ## Motivation
 No more endless swiping—just good beans and better breakthroughs.
 
-We built CoFree because we believe the best social network is the one that happens offline. In a world of endless swiping and infinite scrolling, genuine human connection has become a rarity.
+We built FreeCo because we believe the best social network is the one that happens offline. In a world of endless swiping and infinite scrolling, genuine human connection has become a rarity.
 
 Existing apps focus heavily on appearances, leading to shallow interactions and "ghosting." FreeCo flips the script by focusing on Topics and Coffee. By using a low-stakes, universal gesture—"let's grab a coffee"—and centering it around a specific subject (e.g., "AI," "Hiking," "Classic Novels"), we create a natural icebreaker and a purposeful reason to meet. Essentially, it's a free coffee for collaborating.
 
@@ -14,8 +14,8 @@ Get the app running locally in under 5 minutes.
 Clone & Install
 
 Bash
-git clone https://github.com/yourusername/cofree.git
-cd cofree
+git clone https://github.com/yourusername/freeco.git
+cd freeco
 npm install
 Environment Setup Rename .env.example to .env and add your API keys (Database, Maps, Auth).
 
@@ -43,7 +43,7 @@ Match Messaging: Once the host accepts your request, a private chat opens. Use t
 Meet Up: Enjoy the coffee and the conversation.
 
 ## 🤝 Contributing
-We love community contributions! Here is how you can help improve CoFree:
+We love community contributions! Here is how you can help improve FreeCo:
 
 Fork the Repository (Click the 'Fork' button in the top right).
 
